@@ -31,7 +31,7 @@ themes, a minimap, fog of war, save/load, and optional multi-level runs. Everyth
 
 1. Import the package: **Assets → Import Package → Custom Package…** and select
    `HybridDungeonKit.unitypackage` (keep everything checked).
-2. Requirements: Unity 2021.3 LTS or newer (developed and tested on Unity 6.3). Works with the
+2. Requirements: Unity 6 (6000.0) or newer; developed and tested on Unity 6.3. Works with the
    Built-in Render Pipeline and URP. Needs the **2D Tilemap** package, which is
    included by default in 2D projects.
 

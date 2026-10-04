@@ -82,4 +82,4 @@ First release.
   scene search calls are version-guarded).
 
 ### Notes
-- Requires Unity 2021.3 LTS or newer and the 2D Tilemap package.
+- Requires Unity 6 (6000.0) or newer and the 2D Tilemap package.
